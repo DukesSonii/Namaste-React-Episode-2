@@ -1,0 +1,23 @@
+{
+  "name": "e6",
+  "version": "1.0.0",
+  "description": "# Episode 06 - Exploring the world",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build",
+    "test": "jest"
+  },
+  "author": "duke soni",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.0.1",
+    "react-router-dom": "^6.22.3"
+  }
+}
